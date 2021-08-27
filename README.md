@@ -1,9 +1,13 @@
 This application was inspired by my previous project BinGameV2, which was created using Java and Android Studio.
 
 Frontend specifications: 
-    materia-ui
-    redux
-    react
+<ul>
+    <li>React</li>
+    <li>React Router Dom</li>
+    <li>Redux</li>
+    <li>Axios</li>
+    <li>Material-ui</li>
+</ul>
 
 ### `npm start`
 
